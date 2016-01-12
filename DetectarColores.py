@@ -5,6 +5,11 @@ import numpy as np
 import time
 import cv2
 
+
+def nothing(x):
+    pass
+
+    
 # Dimenciones de video
 Ancho = 320
 Alto = 240
